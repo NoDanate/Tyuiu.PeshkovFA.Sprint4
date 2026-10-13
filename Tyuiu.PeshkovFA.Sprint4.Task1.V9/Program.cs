@@ -19,7 +19,7 @@ namespace Tyuiu.PeshkovFA.Sprint4.Task1.V9
 
             for (int i = 0; i < len; i++)
             {
-                Console.Write("Введите значение " + i + "элемента массива: ");
+                Console.Write("Введите значение " + i + " элемента массива: ");
                 numsArray[i] = Convert.ToInt32(Console.ReadLine());
             }
             Console.WriteLine();
@@ -33,7 +33,7 @@ namespace Tyuiu.PeshkovFA.Sprint4.Task1.V9
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Результат:                                                              *");
             Console.WriteLine("***************************************************************************");
-            Console.WriteLine("Cумма четных чисел: " + ds.Calculate(numsArray));
+            Console.WriteLine("Cумма произведение четных чисел: " + ds.Calculate(numsArray));
 
             Console.ReadLine();
         }
