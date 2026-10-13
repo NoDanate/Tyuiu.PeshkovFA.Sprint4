@@ -1,0 +1,14 @@
+<Solution>
+  <Folder Name="/Task0/">
+    <Project Path="Tyuiu.PeshkovFA.Sprint4.Task0.V14.Lib/Tyuiu.PeshkovFA.Sprint4.Task0.V14.Lib.csproj" Id="02ddecdc-7661-4fee-b29b-3d7706f4ebc3" />
+    <Project Path="Tyuiu.PeshkovFA.Sprint4.Task0.V14.Test/Tyuiu.PeshkovFA.Sprint4.Task0.V14.Test.csproj" Id="262deb88-92b7-43d2-a91c-7a460cd00686" />
+    <Project Path="Tyuiu.PeshkovFA.Sprint4.Task0.V14/Tyuiu.PeshkovFA.Sprint4.Task0.V14.csproj" Id="26822563-cff0-4fdb-a1ba-6e18e9fcf428" />
+  </Folder>
+  <Folder Name="/Task1/" />
+  <Folder Name="/Task2/" />
+  <Folder Name="/Task3/" />
+  <Folder Name="/Task4/" />
+  <Folder Name="/Task5/" />
+  <Folder Name="/Task6/" />
+  <Folder Name="/Task7/" />
+</Solution>
