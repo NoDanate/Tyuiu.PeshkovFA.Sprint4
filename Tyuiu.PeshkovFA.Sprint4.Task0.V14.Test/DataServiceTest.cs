@@ -6,7 +6,7 @@ namespace Tyuiu.PeshkovFA.Sprint4.Task0.V14.Test
     public sealed class DataServiceTest
     {
         [TestMethod]
-        public void TestMethod1()
+        public void ValidGetSumOddArrEl()
         {
             DataService ds = new DataService();
 
