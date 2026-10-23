@@ -10,10 +10,10 @@ namespace Tyuiu.PeshkovFA.Sprint4.Task3.V23.Test
         {
             DataService ds = new DataService();
 
-            int[,] array = new int[,] { { 7, 5, 5, 6, 7 }, 
-                                        { 8, 7, 8, 4, 3 }, 
-                                        { 5, 6, 7, 8, 3 }, 
-                                        { 4, 2, 3, 6, 4 }, 
+            int[,] array = new int[,] { { 7, 5, 5, 6, 7 },
+                                        { 8, 7, 8, 4, 3 },
+                                        { 5, 6, 7, 8, 3 },
+                                        { 4, 2, 3, 6, 4 },
                                         { 5, 2, 4, 2, 3 }};
             int wait = 13;
 
